@@ -4,4 +4,5 @@
 
 ### Instructions:
 CTRL+Left mouse down - Drag window
+
 CTRL+Right mouse down - Resize window
