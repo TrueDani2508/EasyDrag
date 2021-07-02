@@ -1,6 +1,6 @@
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #SingleInstance, force
-Menu, Tray, Icon, %A_ScriptDir%\EasyDrag.ico
+; Menu, Tray, Icon, %A_ScriptDir%\EasyDrag.ico
 Menu, Tray, NoStandard ; remove standard Menu items
 Menu, Tray, add, Exit, MenuHandler  ; Creates a new menu item.
 
